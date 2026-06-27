@@ -6,6 +6,9 @@
 
 Este repositório contém a documentação e os fundamentos estratégicos do painel **DataPlus Varejo Inteligente**, um dashboard executivo desenvolvido no Microsoft Power BI para monitoramento analítico de faturamento, volumetria de vendas e comportamento de categorias de produtos ao longo do tempo.
 
+<img width="1901" height="903" alt="image" src="https://github.com/user-attachments/assets/66f10abb-723a-485a-a3f3-890033d1e587" />
+<img width="1416" height="791" alt="image" src="https://github.com/user-attachments/assets/d41960b0-74fd-4ce3-9c28-fffa9d355eeb" />
+
 ---
 
 ## 🎯 Desafio de Negócio & Objetivos Estratégicos
